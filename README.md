@@ -3,7 +3,7 @@ Project 2 is due on March 18th Friday 11:00 pm.
 Please push your Jupyter notebook file and slides (<=10 pages) to the GitHub classroom, name them as **30100_P2_YourFirstName**.
 
 Please record your presentation and upload the **link** to your recording here: 
-
+https://drive.google.com/file/d/1P3dC-vkT6Eso11Q54Pk8x1rFGo2jYpU-/view?usp=sharing
 ---
 
 
