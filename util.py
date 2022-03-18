@@ -73,7 +73,13 @@ def con_matrix(test, preds, name, target_names):
     plt.title(title)
     plt.show()
 
-    
+"""
+Side Note:
+
+I adapted the below class from https://www.kaggle.com/code/kylegilde/extracting-scikit-feature-names-importances/notebook
+sklearn has an issue with getting feature names out from your column transformer if you use simple imputer with add_indicator=True in your preprocessing pipeline.
+This class just helps me get the feature names out. I don't really use any of its other functionalities.
+"""
     
 class FeatureImportance:
 
